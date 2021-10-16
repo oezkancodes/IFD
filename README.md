@@ -1,2 +1,2 @@
 # IFD
-Interface Design
+Interface Design Modul aus dem 5. Semester OMB.
