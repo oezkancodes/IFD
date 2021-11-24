@@ -1,4 +1,5 @@
 # IFD
+
 Interface Design Modul aus dem 5. Semester OMB.
 
 ## Aufgaben
@@ -10,4 +11,8 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 ### #02 Low-Fid Prototype
 
-- [#02.1 Low-Fid Prototype](./Aufgaben/02%20-%20Prototyping/low-fid-prototype.png)
+- [#02 Low-Fid Prototype](./Aufgaben/02%20-%20Prototyping/low-fid-prototype.png)
+
+### #03 Hig-Fid Prototype
+
+- [#03 High-Fid Prototype](https://react-file-explore-ifd.netlify.app)
