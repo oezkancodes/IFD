@@ -11,8 +11,12 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 ### #02 Low-Fid Prototype
 
-- [#02 Low-Fid Prototype](./Aufgaben/02%20-%20Prototyping/low-fid-prototype.png)
+- [#02 Low-Fid Prototype](./Aufgaben/02-Prototyping/low-fid-prototype.png)
 
 ### #03 - #06 Hig-Fid Prototype
 
 - [#03 High-Fid Prototype](https://react-file-explore-ifd.netlify.app) (WIP)
+
+### #07 Test and Evaluate
+
+- [#07 User Test](./Aufgaben/07-User_Testing/User_Testing.pdf)
