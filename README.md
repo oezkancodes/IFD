@@ -13,6 +13,6 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 - [#02 Low-Fid Prototype](./Aufgaben/02%20-%20Prototyping/low-fid-prototype.png)
 
-### #03 Hig-Fid Prototype
+### #03 - #06 Hig-Fid Prototype
 
-- [#03 High-Fid Prototype](https://react-file-explore-ifd.netlify.app)
+- [#03 High-Fid Prototype](https://react-file-explore-ifd.netlify.app) (WIP)
