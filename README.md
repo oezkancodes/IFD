@@ -15,7 +15,8 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 ### #03 - #06 Hig-Fid Prototype
 
-- [#03 High-Fid Prototype](https://react-file-explore-ifd.netlify.app) (WIP)
+- [#03 High-Fid React Prototype](https://react-file-explore-ifd.netlify.app) (alte Version)
+- [#03 High-Fid Vue Prototype](https://vue-file-explorer-ifd.netlify.app/) (WIP)
 
 ### #07 Test and Evaluate
 
