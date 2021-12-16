@@ -24,5 +24,5 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 ### 08 Prototype Enhancement
 
-- [Dokumentation](./Aufgaben/08-Prototype_Enhancement/Dokuementation.pdf)
+- [Dokumentation](./Aufgaben/08-Prototype_Enhancement/Dokumentation.pdf)
 - [Prototyp Live Demo](https://vue-file-explorer-ifd.netlify.app/)
