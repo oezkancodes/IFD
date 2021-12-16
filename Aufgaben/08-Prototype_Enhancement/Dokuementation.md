@@ -15,7 +15,7 @@ Der Prototyp wurde als Erstes auf Basis von React entwickelt. Mitten in der Entw
 
 ## Verbesserungen
 
-Wie ich schon in der letzten Aufgabe [User Testing](/Aufgaben/07-User_Testing/User_Testing.pdf) erwähnt hatte, war der Prototyp zur Zeit des Testings nicht ausgereift genug, um sinnvolle User Testings durchzuführen. Aus diesem Grund hatte ich einen alternative File Explorer für das Testing genommen.
+Wie ich schon in der letzten Aufgabe [User Testing](https://github.com/oezkancodes/IFD/blob/main/Aufgaben/07-User_Testing/User_Testing.pdf) erwähnt hatte, war der Prototyp zur Zeit des Testings nicht ausgereift genug, um sinnvolle User Testings durchzuführen. Aus diesem Grund hatte ich einen alternative File Explorer für das Testing genommen.
 
 Ich habe den Fokus auf die Navigation gelegt und diesen Aspekt bei der Entwicklung erheblich verbessert. Zur Erinnerung möchte ich erwähnen, dass es um die Verbesserung des in Windows vorhandenen File Explorers geht.
 
