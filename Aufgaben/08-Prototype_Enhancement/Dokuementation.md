@@ -11,7 +11,7 @@ Der Prototyp ist eine auf Vue basierte interaktive Webanwendung. Es imitiert ein
 
 ![Screenshot Prototyp](./prototype-screenshot.png)
 
-Der Prototyp wurde als Erstes auf Basis von React entwickelt. Mitten in der Entwicklung bin ich dann auf Vue umgestiegen. Der Umstieg war nötig, da ich weitaus besser in Vue eingearbeitet war und die Implementierung zeitlich zu fordernd geworden ist. Die alte auf React basierte Live Demo ist [hier](https://react-file-explore-ifd.netlify.app/) zugänglich und das Repository [hier](https://github.com/oezkancodes/react-file-explorer).
+Der Prototyp wurde als Erstes auf Basis von React entwickelt. Mitten in der Entwicklung bin ich dann auf Vue umgestiegen. Der Umstieg war nötig, da ich weitaus besser in Vue eingearbeitet war und die Implementierung zeitlich zu fordernd geworden ist. Die alte auf React basierte Live Demo ist [hier](https://react-file-explorer-ifd.netlify.app/) zugänglich und das Repository [hier](https://github.com/oezkancodes/react-file-explorer).
 
 ## Verbesserungen
 
