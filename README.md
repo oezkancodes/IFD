@@ -26,3 +26,7 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 - [Dokumentation](./Aufgaben/08-Prototype_Enhancement/Dokumentation.pdf)
 - [Prototyp Live Demo](https://vue-file-explorer-ifd.netlify.app/)
+
+### 10 VUI Prototype
+
+- [Konzeptentwurf](./Aufgaben/10-Prototype_VUI/Konzeptentwurf.pdf)
