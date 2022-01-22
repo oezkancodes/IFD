@@ -34,4 +34,12 @@ Interface Design Modul aus dem 5. Semester OMB.
 ### 11 VUI Prototype
 
 - [VUI Prototype](https://vui--vue-file-explorer-ifd.netlify.app/)
-- [Screencast](./Aufgaben/11-Prototype_VUI/screencast.m4v)
+- [Screencast YouTube](https://www.youtube.com/watch?v=JVvzfVNbwmc)
+- [Screencast .m4v file](./Aufgaben/11-Prototype_VUI/screencast.m4v)
+
+#### Mögliche Befehle
+
+- "Öffne Desktop/Home"
+- "Öffne Desktop/Home in einen neuen Tab"
+- "Schließe Tab"
+- "Suche nach ..."
