@@ -15,8 +15,10 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 ### 03 - 06 Hig-Fid Prototype
 
-- [High-Fid React Prototype](https://react-file-explorer-ifd.netlify.app) (alte Version)
-- [High-Fid Vue Prototype](https://vue-file-explorer-ifd.netlify.app/)
+- [High-Fid React Prototype Live Demo](https://react-file-explorer-ifd.netlify.app) **(alte Version)**
+  - [Repository](https://github.com/oezkancodes/react-file-explorer) **(alte Version)**
+- [High-Fid Vue Prototype Live Demo](https://vue-file-explorer-ifd.netlify.app/)
+  - [Repository](https://github.com/oezkancodes/vue-file-explorer)
 
 ### 07 Test and Evaluate
 
@@ -26,6 +28,7 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 - [Dokumentation](./Aufgaben/08-Prototype_Enhancement/Dokumentation.pdf)
 - [Prototyp Live Demo](https://vue-file-explorer-ifd.netlify.app/)
+  - [Repository](https://github.com/oezkancodes/vue-file-explorer)
 
 ### 10 VUI Prototype (Konzept)
 
@@ -33,7 +36,7 @@ Interface Design Modul aus dem 5. Semester OMB.
 
 ### 11 VUI Prototype
 
-- [VUI Prototype](https://vui--vue-file-explorer-ifd.netlify.app/)
+- [VUI Prototype Live Demo](https://vui--vue-file-explorer-ifd.netlify.app/)
 - [Screencast YouTube](https://www.youtube.com/watch?v=JVvzfVNbwmc)
 - [Screencast .m4v file](./Aufgaben/11-Prototype_VUI/screencast.m4v)
 
